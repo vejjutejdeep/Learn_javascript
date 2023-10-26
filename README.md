@@ -5,3 +5,7 @@ there are two types in which we write a javascript program
 internal and external
 external is where you write the code file and provide the source in the html file.
 internal is where you write inside the code.
+two types of varaible 
+const and let
+const dosenot change 
+while let is used any operation 
