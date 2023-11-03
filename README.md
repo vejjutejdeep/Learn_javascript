@@ -9,3 +9,4 @@ two types of varaible
 const and let
 const dosenot change 
 while let is used any operation 
+in let is a local scope and var is global scope
