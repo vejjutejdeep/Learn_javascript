@@ -36,3 +36,7 @@ op1++
 op2--
 
 console.log(add, sub, mul, div, rem, op1, op2)
+console.log(`the addition of two numbers is ${add}
+the substraction of two numbers is ${sub}
+the multiplication of two numbers is ${mul}
+the division of two numbers is ${div}`)
